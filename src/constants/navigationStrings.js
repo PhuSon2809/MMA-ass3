@@ -1,0 +1,15 @@
+export const NAVIGATION = {
+  MAIN: "Main",
+  HOME: "Home",
+  HOME_STACK: "HomeStack",
+  LIST: "List",
+  LIST_STACK: "ListStack",
+  ADD: "Add",
+  CART: "Cart",
+  FAVORITE: "Favorite",
+  FAVORITEX_STACK: "FavoriteStack",
+  PROFILE: "Profile",
+  TABS: "Tabs",
+  HOME_DRAWER: "HomeDrawer",
+  PRODUCT_DETAILS: "productDetails",
+};
